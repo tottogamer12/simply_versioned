@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
