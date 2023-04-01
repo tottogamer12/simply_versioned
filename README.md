@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+* fix for predicting with batch_size > 1
