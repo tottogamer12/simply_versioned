@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add bgr hyperparameter (#9139)
