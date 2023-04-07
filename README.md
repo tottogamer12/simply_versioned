@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Auto-format by https://ultralytics.com/actions
