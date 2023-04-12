@@ -1,1 +1,1 @@
-added badges (#45)
+Fixed RTDETR GFLOPs bug (#7309)
