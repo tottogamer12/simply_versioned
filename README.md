@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
