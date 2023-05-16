@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
