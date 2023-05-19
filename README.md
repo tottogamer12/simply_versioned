@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
