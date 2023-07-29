@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
