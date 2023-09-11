@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
