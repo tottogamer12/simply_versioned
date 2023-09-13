@@ -1,1 +1,1 @@
-ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
