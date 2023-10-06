@@ -1,1 +1,1 @@
-fix resume training
+Compress docs images (#8124)
