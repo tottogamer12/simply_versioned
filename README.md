@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
