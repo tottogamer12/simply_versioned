@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Updated SQL Query Plot Code (#8120)
