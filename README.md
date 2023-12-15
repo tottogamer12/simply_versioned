@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Clean up unused imgsz (#7771)
