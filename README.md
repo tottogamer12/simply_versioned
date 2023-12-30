@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+New HUB Cloud Training docs page (#8174)
