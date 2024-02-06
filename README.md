@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
