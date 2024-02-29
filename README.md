@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
