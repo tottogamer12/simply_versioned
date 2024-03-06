@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
