@@ -1,1 +1,1 @@
-add yolov10
+Remove JAX constraints in Exporter (#8309)
