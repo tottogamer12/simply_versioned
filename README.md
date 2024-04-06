@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+* fix for KeyError: 'epoch'
