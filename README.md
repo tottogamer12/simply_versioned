@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
