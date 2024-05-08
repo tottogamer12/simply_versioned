@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
