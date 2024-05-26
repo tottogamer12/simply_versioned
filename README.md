@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
