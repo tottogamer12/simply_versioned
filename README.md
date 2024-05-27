@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+New HUB Cloud Training docs page (#8174)
