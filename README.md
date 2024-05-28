@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
