@@ -1,1 +1,1 @@
-fix resume training
+Add PaddlePaddle Docs Integrations Page (#8858)
