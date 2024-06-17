@@ -1,1 +1,1 @@
-add logs
+Compress docs images (#8124)
