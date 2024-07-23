@@ -1,1 +1,1 @@
-add yolov10
+Fix bbox2segment converter (#7814)
