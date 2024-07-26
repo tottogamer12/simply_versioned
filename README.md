@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add bgr hyperparameter (#9139)
