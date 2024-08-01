@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+OpenVino 2024.0.0 (#8726)
