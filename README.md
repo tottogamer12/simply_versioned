@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
