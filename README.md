@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
