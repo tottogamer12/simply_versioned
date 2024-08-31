@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Avoid creating -hub dir without processing images (#8334)
